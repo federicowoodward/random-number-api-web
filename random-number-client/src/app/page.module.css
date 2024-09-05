@@ -1,0 +1,21 @@
+
+
+.home {
+  background-color: #151B23;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinButton {
+  background-color: white;
+  color: black;
+  position: absolute;
+  z-index: 10;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;  
+  font-size: 40px;
+}
