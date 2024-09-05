@@ -26,3 +26,8 @@ npm install
 
 # Ejecutar la API en modo desarrollo
 npm run start:dev
+
+# Ejecturar el front 
+npm run start 
+
+### Contiene docker compose para ambos componentes. 
